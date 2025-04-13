@@ -1,0 +1,8 @@
+[package]
+name = "text_to_png"
+version = "0.1.0"
+edition = "2024"
+authors = ["SniverDaBest <sniverdabest@proton.me>"]
+
+[dependencies]
+png = "0.17.16"
