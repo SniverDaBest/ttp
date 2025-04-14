@@ -1,5 +1,5 @@
 # Info
-`ttp` is a simple utility to turn *almost* any text file into a `.png` file.\
+`ttp` is a simple utility to turn *almost* any text file into a picture.\
 If you convert 500.6 MB of text files into a `.png`, the `.png` will be ~500.7 MB.
 
 # How it works
@@ -20,8 +20,8 @@ If we didn't specify the alpha channel as `193` on the last two pixels, there wo
 
 # TODO
 - [X] Alpha channel for `NULL` bytes
+- [X] TGA support
 - [ ] JPG support
-- [ ] TGA support
 - [ ] Video support for large files
     - [ ] MP4 support
     - [ ] MPV support
