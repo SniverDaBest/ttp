@@ -1,3 +1,6 @@
+>[!TIP]
+> Moved to [Codeberg](https://codeberg.org/SniverDaBest/ttp).
+
 # Info
 `ttp` is a simple utility to turn *almost* any text file into a picture.\
 If you convert 500.6 MB of text files into a `.png`, the `.png` will be ~500.7 MB.
